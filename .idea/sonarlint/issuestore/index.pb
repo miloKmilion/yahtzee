@@ -1,0 +1,14 @@
+
+:
+
+yahtzee.py,d\7\d717d5a973902c747d041bffdf4e1975d8aba949
+6
+die.py,d\6\d6984476da5e0a1330b54f2d530a3b0968ca9331
+7
+hand.py,a\4\a4d949ed7d073d3ba191d7680f6964be6488ab53
+8
+rules.py,d\b\dbf0b417532fb900152a9ef9f8897d224a76093a
+@
+yahtzee_rules.py,4\c\4cfe88429548cde5a8113030855c61104fa49ad5
+=
+scoreboard.py,4\3\43b81c0e5ed0f94438c911097cf0209b2b6bc9ed
